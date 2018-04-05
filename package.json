@@ -1,0 +1,26 @@
+{
+  "name": "thawedsynapse",
+  "version": "1.0.0",
+  "description": "Totally not a frozen synapse rip off",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricLindskog/ThawedSynapse.git"
+  },
+  "keywords": [
+    "dab"
+  ],
+  "author": "Lindskog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricLindskog/ThawedSynapse/issues"
+  },
+  "homepage": "https://github.com/EricLindskog/ThawedSynapse#readme",
+  "dependencies": {
+    "matter": "^0.2.0",
+    "matter-js": "^0.14.1"
+  }
+}

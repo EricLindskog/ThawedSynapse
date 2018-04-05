@@ -1,0 +1,16 @@
+client/dash.js/dist
+client/dash.js/node_modules
+client/node_modules
+node_modules/
+server/key.pem
+server/certificate.pem
+server/server.exe
+videos/encoded
+.cache/
+dist/
+*.log
+*.log.mbtree
+
+.vscode/
+
+yarn.lock
